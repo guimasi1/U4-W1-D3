@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0296def-917f-4d9d-81ca-aa7779f3d501" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es1/MainRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es1/MainRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es1/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es1/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es2/MainSim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es2/MainSim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es2/Sim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es2/Sim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es3/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es3/Article.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es3/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es3/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es3/Customers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es3/Customers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es3/MainEs3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es3/MainEs3.java" afterDir="false" />
-    </list>
+    <list default="true" id="d0296def-917f-4d9d-81ca-aa7779f3d501" name="Changes" comment="modifies printsimdata method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +24,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2Yqgw4ybUSkXqu0dGkblkK5CiaG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,6 +54,28 @@
       <option name="presentableId" value="Default" />
       <updated>1701258761406</updated>
     </task>
+    <task id="LOCAL-00001" summary="modifies cart structure">
+      <option name="closed" value="true" />
+      <created>1701268667095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701268667095</updated>
+    </task>
+    <task id="LOCAL-00002" summary="modifies printsimdata method">
+      <option name="closed" value="true" />
+      <created>1701272650957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701272650957</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modifies cart structure" />
+    <MESSAGE value="modifies printsimdata method" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifies printsimdata method" />
   </component>
 </project>
